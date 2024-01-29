@@ -20,7 +20,6 @@ compute properties of larger systems than was feasible with previous wavefunctio
 
 ![](img/electronic_structure_vsp1.png)
 
-
 However, DFT has limitations, particularly in accurately capturing strong electron correlation effects in some 
 systems. To address these challenges, researchers have been developing more sophisticated methods and algorithms. 
 One such advancement is the integration of deep learning techniques into quantum simulations. Deep learning, with its 
@@ -39,7 +38,6 @@ to the cutting-edge integration of deep learning and the exploratory use of quan
 developments represents a step forward in our ability to understand and manipulate the quantum world, opening up 
 new possibilities in material science, chemistry, and fundamental physics.
 
-
 ## Quantum Simulation on Classical Computers - Python
 
 https://pypi.org/project/pyscf/
@@ -55,6 +53,8 @@ https://pypi.org/project/qutip/
 https://pypi.org/project/ifermi/
 
 https://www.phys.ufl.edu/fermisurface/
+
+![](img/fermi_surface_db.png)
 
 ### Quantum Simulation on Classical Computers - Other
 
